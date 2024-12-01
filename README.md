@@ -25,9 +25,11 @@ This project demonstrates a **Text Generation** system for creating **Ngũ ngôn
 
 1. **Data Collection**: Web scraping Vietnamese pentagram poems from [Thivien.net](https://www.thivien.net) using Selenium. Including:
    - Identify target data location
+
 ![image](https://github.com/user-attachments/assets/f655039f-779b-411b-9c88-85685cc627fb)
  
    - Create driver
+
 ![image](https://github.com/user-attachments/assets/22a498bf-9361-4ed9-ba2a-8a5a8c874360)
 
    - Access to datatable 
