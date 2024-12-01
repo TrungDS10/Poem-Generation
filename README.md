@@ -66,9 +66,3 @@ This project demonstrates a **Text Generation** system for creating **Ngũ ngôn
   - Matplotlib
   - nltk
 
----
-
-## License
-This project is licensed under the MIT License.
-
----
