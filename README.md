@@ -1,7 +1,3 @@
-# DSE511 Project
-
----
-
 # Vietnamese Pentagram Poem Generation
 
 ## Overview
